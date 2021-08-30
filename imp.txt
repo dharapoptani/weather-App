@@ -1,2 +1,0 @@
-commad for converting .py to .pyc(bytecode or software)
-python -m py_compile filename.py
